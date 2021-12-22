@@ -1,0 +1,34 @@
+Please enter the number integers to put in an array: 5
+Please enter integers to fill the array: 1 2 3 4 5
+The mean using function 1 is: 3
+The mean using function 2 is: 3
+
+Please enter the number integers to put in an array: 7
+Please enter integers to fill the array: 1 2 5 7  
+64
+7
+88
+The mean using function 1 is: 24.8571
+The mean using function 2 is: 24.8571
+
+Please enter the number integers to put in an array: 0
+Input is not positive.
+Please enter the number of integers to put in an array: -1
+Input is not positive.
+Please enter the number of integers to put in an array: 6
+Please enter integers to fill the array: -1 
+Input is not positive.
+Please enter a positive integer: -52
+Input is not positive.
+Please enter a positive integer: 0
+Input is not positive.
+Please enter a positive integer: 1
+2
+3
+-5
+Input is not positive.
+Please enter a positive integer: 66
+10000
+87
+The mean using function 1 is: 1693.17
+The mean using function 2 is: 1693.17
